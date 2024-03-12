@@ -22,9 +22,8 @@ public class calculadoraConsumo {
 
         scanner.close();
 
-        System.out.println("Mega Grupo: ")
-
-
+        System.out.println();
+        System.out.println();
     }
 
     
